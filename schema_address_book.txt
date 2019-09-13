@@ -1,1 +1,3 @@
 Copy your URL to screenshot here
+https://imgur.com/2uRkRf3
+Schema ===> many to many <====
