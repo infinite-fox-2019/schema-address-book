@@ -1,1 +1,8 @@
 Copy your URL to screenshot here
+
+https://imgur.com/a/JTSr0hL
+
+1. Terdapat table kontak dimana setiap kontak memiliki nama, perusahaan, nomor telepon dan email
+2. Selanjutnya terdapat table grup yang memiliki nama
+3. Hubungan antara table kontak dengan table group adalah many to many karena setiap kontak memiliki banyak grup, begitupun setiap grup memiliki banyak kontak didalamnya
+4. Oleh karena itu diperlukan adanya Pivot untuk mengakomodir hubungan ini
