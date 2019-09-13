@@ -1,1 +1,6 @@
 Copy your URL to screenshot here
+https://imgur.com/LtC4WQx
+
+1. tabel kontak berisi nama, perusahaan, nomor telepon dan email
+2. tabel grup berisi nama
+3. tabel kontak memiliki hubungan many to many dengan tabel grup karena sebuah grup bisa memiliki banyak kontak dan kontak bisa memiliki banyak grup, sehingga terdapat tabel pivot antara tabel grup dan tabel kontak
