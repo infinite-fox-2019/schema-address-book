@@ -1,1 +1,6 @@
-Copy your URL to screenshot here
+https://imgur.com/Cme5Q2k
+
+
+Karena satu kontak dapat memiliki banyak grub dan satu grub dapat memiliki banyak kontak,
+maka hubungan antar keduanya many to many,
+yang dihubungkan melalui sebuah tabel conjunction, dalam kasus ini tabel conjunction saya namai contact_grub
