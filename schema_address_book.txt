@@ -1,1 +1,12 @@
-Copy your URL to screenshot here
+Copy your URL to screenshot here : https://imgur.com/iIVwpGN
+
+Penjelasan skema database dari gambar tersebut :
+
+1.Kontak memiliki id_kontak sebagi Primary_keynya, nama, perusahaan, nomor telepon dan email.
+2.Grup memiliki id_grup sebagai primary_keynya, nama
+3.Sebuah kontak bisa masuk ke dalam banyak grup dan grup memiliki banyak kontak
+
+kesimpulannya dari gambar tersebut, hubungan antar kontak dengan grup adalah many to many,
+maka dari itu dibuatlah sebuah table baru bernama Kontak_Grup yang menyimpan id sebagai primary_keynya,
+serta memiliki attribut baru atau key baru dari table tersebut yaitu id_kontak (sebagai foreign key dari table kontak) dan
+id_grup (sebagai foreign key dari table grup).
