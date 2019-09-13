@@ -1,1 +1,6 @@
-Copy your URL to screenshot here
+https://drive.google.com/open?id=18ce78VMBZ5RP6UZcIBxl73KBO03kuezj
+
+skema grup kontak menggambarkan hubungan antara kontak dengan grup
+yang dimana kontak ke grupkontak merupkan one to many dikarenakan kontak bisa masuk kedalam banyak grup
+di grup kontak sendiri merukapakn anak dari grup, karena grup sendiri memiliki banyak kontak
+yang dimana grupkontak menjadi pivot antara kedua data
