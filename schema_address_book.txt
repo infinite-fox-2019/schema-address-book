@@ -1,1 +1,12 @@
-Copy your URL to screenshot here
+https://imgur.com/pRUoKJ9
+
+1. Kontak memiliki nama, perusahaan, nomor telepon dan email
+Buat tabel Contact yang punya atribut yang merepresentasikan atribut-atribut yang disebutkan
+
+2. Grup memiliki nama
+Buat tabel Group yang punya atribut yang merepresentasikan atribut nama
+
+3. Sebuah kontak bisa masuk ke dalam banyak grup dan grup memiliki banyak kontak
+Relasi kontak dan group adalah Many to Many. Artinya, perlu dibuat bridge tabel misal Contact_Group.
+Asumsi satu kontak tidak harus memiliki grup dan grup harus memiliki minimal satu kontak,
+maka relasi Contact ke Group adalah Many Mandatory to Many Optional
