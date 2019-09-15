@@ -1,1 +1,6 @@
 Copy your URL to screenshot here
+https://drive.google.com/open?id=1aS4pqQzprzfhHGxkPFmfzIdMXcIaX9Ia
+
+kontak yang memiliki nama, perusahaan, nomer telfon, dan email ,dapat berada dalam sebuah group, sehingga hubungannya merupakan one to many.
+
+group yang berisikan banyak kontak dapat barada dalam group of groups sehingga hubungannya merupakan many to many.
