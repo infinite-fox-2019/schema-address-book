@@ -1,1 +1,9 @@
 Copy your URL to screenshot here
+
+https://drive.google.com/file/d/1aHJ4PMDjfJlVsEF76iR0DtWxT9t78nY7/view?usp=sharing
+
+
+1. Kontak memiliki relasi many to many terhadap grup, begitupun sebaliknya, grup memiliki relasi many to many terhadap kontak.
+2. Relasi many to many membutuhkan tabel perantara untuk menghubungkan masing-masing entitas.
+3. Satu kontak_id bisa terdapat dalam banyak grup_id
+4. Satu grup_id bisa terdapat dalam banyak kontak_id
